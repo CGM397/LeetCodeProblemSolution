@@ -1,4 +1,4 @@
-package fourSum;
+package _18_fourSum;
 
 import java.util.ArrayList;
 import java.util.Arrays;

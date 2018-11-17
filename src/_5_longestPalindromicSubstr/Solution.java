@@ -1,4 +1,4 @@
-package longestPalindromicSubstr;
+package _5_longestPalindromicSubstr;
 
 public class Solution {
 

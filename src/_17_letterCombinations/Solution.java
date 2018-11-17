@@ -1,4 +1,4 @@
-package letterCombinations;
+package _17_letterCombinations;
 
 import java.util.ArrayList;
 import java.util.List;

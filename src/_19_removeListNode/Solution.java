@@ -1,4 +1,6 @@
-package removeListNode;
+package _19_removeListNode;
+
+import _0_entity.ListNode;
 
 import java.util.ArrayList;
 
@@ -18,11 +20,5 @@ public class Solution {
             return head;
         }else
             return head.next;
-    }
-
-    public class ListNode {
-      int val;
-      ListNode next;
-      ListNode(int x) { val = x; }
     }
 }
